@@ -1,0 +1,176 @@
+{
+  "version": 1,
+  "base_track": "Why not me",
+  "base_artist": "Peromu",
+  "createdAt": "2025-12-01T08:41:05.103845Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Why Not Me",
+      "artist": "The Judds",
+      "has_synced": true,
+      "path": "select/01_Why_Not_Me_The_Judds.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Why Not Me",
+      "artist": "The Judds",
+      "has_synced": true,
+      "path": "select/02_Why_Not_Me_The_Judds.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Why Not Me",
+      "artist": "Ginuwine",
+      "has_synced": false,
+      "path": "select/03_Why_Not_Me_Ginuwine.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Why Not Me",
+      "artist": "Within Temptation",
+      "has_synced": true,
+      "path": "select/04_Why_Not_Me_Within_Temptation.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Why Not Me",
+      "artist": "Within Temptation",
+      "has_synced": true,
+      "path": "select/05_Why_Not_Me_Within_Temptation.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Why Not Me",
+      "artist": "Forrest. feat. Biskwiq",
+      "has_synced": true,
+      "path": "select/06_Why_Not_Me_Forrest._feat._Biskwiq.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Why Not Me",
+      "artist": "Forrest.",
+      "has_synced": true,
+      "path": "select/07_Why_Not_Me_Forrest..lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Why Not Me",
+      "artist": "Fred Knoblock",
+      "has_synced": false,
+      "path": "select/08_Why_Not_Me_Fred_Knoblock.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Why Not Me",
+      "artist": "The Judds",
+      "has_synced": true,
+      "path": "select/09_Why_Not_Me_The_Judds.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Why Not Me?",
+      "artist": "Enrique Iglesias",
+      "has_synced": true,
+      "path": "select/10_Why_Not_Me_Enrique_Iglesias.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Why Not Me",
+      "artist": "The Judds",
+      "has_synced": true,
+      "path": "select/11_Why_Not_Me_The_Judds.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Why Not Me",
+      "artist": "Forrest. & Biskwiq",
+      "has_synced": true,
+      "path": "select/12_Why_Not_Me_Forrest._&_Biskwiq.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Why Not Me",
+      "artist": "The Judds",
+      "has_synced": true,
+      "path": "select/13_Why_Not_Me_The_Judds.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Why Not Me",
+      "artist": "Set It Off",
+      "has_synced": true,
+      "path": "select/14_Why_Not_Me_Set_It_Off.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Why Not Me?",
+      "artist": "Alexander Rybak",
+      "has_synced": true,
+      "path": "select/15_Why_Not_Me_Alexander_Rybak.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Why Not Me",
+      "artist": "Forrest Frank feat. Forrest.",
+      "has_synced": true,
+      "path": "select/16_Why_Not_Me_Forrest_Frank_feat._Forrest..lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Why Not Me",
+      "artist": "Forrest., Biskwiq",
+      "has_synced": false,
+      "path": "select/pl_01_Why_Not_Me_Forrest.,_Biskwiq.txt"
+    },
+    {
+      "id": "petitlyrics_2",
+      "source": "petitlyrics",
+      "title": "Why Not Me",
+      "artist": "Forrest., Biskwiq",
+      "has_synced": false,
+      "path": "select/pl_02_Why_Not_Me_Forrest.,_Biskwiq.txt"
+    },
+    {
+      "id": "petitlyrics_3",
+      "source": "petitlyrics",
+      "title": "Why Not Me",
+      "artist": "Forrest., Biskwiq",
+      "has_synced": false,
+      "path": "select/pl_03_Why_Not_Me_Forrest.,_Biskwiq.txt"
+    },
+    {
+      "id": "petitlyrics_4",
+      "source": "petitlyrics",
+      "title": "Why Not Me?",
+      "artist": "Forrest., Biskwiq",
+      "has_synced": false,
+      "path": "select/pl_04_Why_Not_Me_Forrest.,_Biskwiq.txt"
+    },
+    {
+      "id": "petitlyrics_5",
+      "source": "petitlyrics",
+      "title": "Why Not Me",
+      "artist": "Forrest., Biskwiq",
+      "has_synced": false,
+      "path": "select/pl_05_Why_Not_Me_Forrest.,_Biskwiq.txt"
+    }
+  ]
+}
